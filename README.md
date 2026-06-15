@@ -13,3 +13,4 @@ Servo motor: https://eleshop.jp/shop/g/gG97412/
 Swich: https://akizukidenshi.com/catalog/g/g112409/  
 Buzzer: https://eleshop.jp/shop/g/gB6N361/  
 Step-down for Raspi4: https://eleshop.jp/shop/g/gQ65313/  
+ピンヘッダー: https://eleshop.jp/shop/g/g87G143/  
