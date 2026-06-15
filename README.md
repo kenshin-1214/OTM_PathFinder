@@ -10,6 +10,6 @@ Gyro sensor: MPU9250
 Ultrasonic sensor: https://eleshop.jp/shop/g/gN1QSK8/  
 Servo motor: https://eleshop.jp/shop/g/gG97412/  
 18650 Box: https://x.gd/kmvYc  
-Swith: https://akizukidenshi.com/catalog/g/g112409/  
+Swich: https://akizukidenshi.com/catalog/g/g112409/  
 Buzzer: https://eleshop.jp/shop/g/gB6N361/  
 Step-down for Raspi4: https://eleshop.jp/shop/g/gQ65313/  
